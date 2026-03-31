@@ -1,6 +1,9 @@
 # C_Language-Final-Exam
 
-# 💻 C Programming – Lab Work Collection
+![Screenshot 2026-03-31 153135](https://github.com/user-attachments/assets/bd894a7e-11d2-4487-8a5b-79d1c1f3005d)
+
+
+# 💻 C Programming – Practical Exam Collection
 
 This repository contains multiple C programs based on basic concepts like:
 
