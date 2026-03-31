@@ -38,7 +38,7 @@ Operations:
 ## ➕ Q2 – Sum of Array
 
 Online GDB Link:
-<a href="[https://onlinegdb.com/i4isDD_Y7F](https://onlinegdb.com/p8xQ30s7s)" target="_blank">📝Q-2</a>
+<a href="[[https://onlinegdb.com/i4isDD_Y7F](https://onlinegdb.com/p8xQ30s7s)" target="_blank">📝Q-2</a>
 
 - Takes size of array from user  
 - Takes elements as input  
