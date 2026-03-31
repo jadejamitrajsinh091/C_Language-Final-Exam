@@ -38,7 +38,7 @@ Operations:
 ## ➕ Q2 – Sum of Array
 
 Online GDB Link:
-<a href="https://onlinegdb.com/i4isDD_Y7F" target="_blank">📝Q-2</a>
+<a href="https://onlinegdb.com/p8xQ30s7s" target="_blank">📝Q-2</a>
 
 - Takes size of array from user  
 - Takes elements as input  
@@ -55,7 +55,7 @@ Output: 10
 ## 🔄 Q3 – Sum + Reverse Array
 
 Online GDB Link:
-<a href="https://onlinegdb.com/K7E5eBl6w" target="_blank">📝Q-3</a>
+<a href="https://onlinegdb.com/K7E5eBl6w" Target="_blank">📝Q-3</a>
 
 - Calculates sum of array  
 - Prints array in reverse order  
