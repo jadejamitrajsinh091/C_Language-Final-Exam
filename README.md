@@ -38,7 +38,7 @@ Operations:
 ## ➕ Q2 – Sum of Array
 
 Online GDB Link:
-<a href="[[https://onlinegdb.com/i4isDD_Y7F](https://onlinegdb.com/p8xQ30s7s)" target="_blank">📝Q-2</a>
+<a href="https://onlinegdb.com/i4isDD_Y7F" target="_blank">📝Q-2</a>
 
 - Takes size of array from user  
 - Takes elements as input  
@@ -55,7 +55,7 @@ Output: 10
 ## 🔄 Q3 – Sum + Reverse Array
 
 Online GDB Link:
-<a href="[[https://onlinegdb.com/i4isDD_Y7F](https://onlinegdb.com/p8xQ30s7s)](https://onlinegdb.com/K7E5eBl6w)" target="_blank">📝Q-3</a>
+<a href="https://onlinegdb.com/K7E5eBl6w" target="_blank">📝Q-3</a>
 
 - Calculates sum of array  
 - Prints array in reverse order  
@@ -73,7 +73,7 @@ Reverse: 3 2 1
 ## 🧊 Q4 – Cube Using Pointer
 
 Online GDB Link:
-<a href="[https://onlinegdb.com/i4isDD_Y7F](https://onlinegdb.com/p8xQ30s7s)](https://onlinegdb.com/FDAPbiUc2)" target="_blank">📝Q-4</a>
+<a href="https://onlinegdb.com/FDAPbiUc2" target="_blank">📝Q-4</a>
 
 - Uses pointer to access array  
 - Calculates cube of each element  
@@ -89,7 +89,7 @@ Output: 8 27
 ## 🔢 Q5 – Number Pattern
 
 Online GDB Link:
-<a href="[[https://onlinegdb.com/i4isDD_Y7F](https://onlinegdb.com/p8xQ30s7s)](https://onlinegdb.com/OfXkcXlDtD)" target="_blank">📝Q-5</a>
+<a href="https://onlinegdb.com/OfXkcXlDtD" target="_blank">📝Q-5</a>
 
 Prints pattern:
 
